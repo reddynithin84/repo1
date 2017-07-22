@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is EE1A-F068
-
- Directory of C:\Users\Nithin Reddy\Desktop\git
-
-07/22/2017  03:43 PM    <DIR>          .
-07/22/2017  03:43 PM    <DIR>          ..
-07/22/2017  03:43 PM                 0 nithin.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  130,437,435,392 bytes free
+nithin change chesindu e file ni jai telangana
